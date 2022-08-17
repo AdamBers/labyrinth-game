@@ -1,0 +1,8 @@
+.game_main {
+    display: flex;
+    height: 86vh;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 7vh 0;
+}
