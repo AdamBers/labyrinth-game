@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/labyrinth-game/static/css/main.c5a3ba23.css",
+    "main.js": "/labyrinth-game/static/js/main.e2380093.js",
+    "static/media/correct.png": "/labyrinth-game/static/media/correct.d05e11c0e57e657b5290.png",
+    "static/media/finish.png": "/labyrinth-game/static/media/finish.35a050014764d6caebaf.png",
+    "static/media/top.png": "/labyrinth-game/static/media/top.d5002ace848a8a87c4f6.png",
+    "static/media/bottom.png": "/labyrinth-game/static/media/bottom.c594b5b0e035a1d37a15.png",
+    "static/media/right.png": "/labyrinth-game/static/media/right.2df36e05eefaecf6c585.png",
+    "static/media/left.png": "/labyrinth-game/static/media/left.4a4e83fa5359d70ee23f.png",
+    "static/media/background.jpg": "/labyrinth-game/static/media/background.8b6840c0ce6b6f556778.jpg",
+    "static/media/start.png": "/labyrinth-game/static/media/start.f8ffbee1d96d9984f911.png",
+    "index.html": "/labyrinth-game/index.html",
+    "main.c5a3ba23.css.map": "/labyrinth-game/static/css/main.c5a3ba23.css.map",
+    "main.e2380093.js.map": "/labyrinth-game/static/js/main.e2380093.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5a3ba23.css",
+    "static/js/main.e2380093.js"
+  ]
+}
